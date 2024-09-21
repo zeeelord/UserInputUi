@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-check the Input image folder for visual reference
+check flutterImage.jpeg for visual representation in the main directory 
